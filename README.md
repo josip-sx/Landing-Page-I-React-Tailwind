@@ -1,2 +1,2 @@
-# Landing-Page-I-React-Tailwind
-landing page, react, tailwind, react typed library
+# Responsive react landing page
+ react, dynamic, animations, responsive
